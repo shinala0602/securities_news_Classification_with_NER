@@ -11,6 +11,8 @@
 * 크롤링한 증권 뉴스 데이터를 사용해 학습
 * 정확도 76%의 성능을 보임. 1만개 정도의 데이터를 나누어 학습과 검증에 사용했기에 더 많은 데이터로 학습시킨다면 더 높은 성능을 보일 것으로 보임
 <img width="426" alt="image" src="https://github.com/shinala0602/securities_news_Classification_with_NER/assets/59050396/c07e81d7-2fae-420f-bcba-bae89f778b5d">
+<img width="249" alt="image" src="https://github.com/shinala0602/securities_news_Classification_with_NER/assets/59050396/d496b6af-1639-411e-8879-dbe4d83fb1b9">
+
 
 ### 개체명 인식 모델
 * 한국해양대학교 자연어처리연구실에서 제작한 개체명 형태소 말뭉치 데이터를 사용해 학습
